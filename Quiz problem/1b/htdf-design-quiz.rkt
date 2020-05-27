@@ -2092,7 +2092,7 @@
 111 150 -1 -1 2 1 #"\0"
 0 -1 1 #"\0"
 1.0 0 -1 -1 -1 -1 -1 -1 0 0 0 0 0 1 0.0 0.0 0.0 0.0 0.0 0.0 255 165 0 63
-111 150 -1 -1           0 177 0 4 3 85
+111 150 -1 -1           0 176 0 4 3 85
 (4
  #";; The first three lines of this file were inserted by DrRacket. The"
  #"y record metadata"
@@ -2266,7 +2266,7 @@
 0 0 14 3 11 #"assessment."
 0           0 0 0 24 29 1 #"\n"
 0 0 24 29 1 #"\n"
-0 0 17 3 26 #";; Image, Image -> Boolean"
+0 0 17 3 25 #";; Image Image -> Boolean"
 0 0 24 29 1 #"\n"
 0 0 17 3 65
 #";; produces true if the first image's RESOLUTION (width * height)"
@@ -2279,8 +2279,7 @@
 0 0 17 3 1 #" "
 0 0 17 3 3 #"the"
 0 0 17 3 1 #" "
-0 0 17 3 8 #"second's"
-0 0 17 3 1 #","
+0 0 17 3 9 #"second's,"
 0 0 17 3 1 #" "
 0 0 17 3 4 #"else"
 0 0 17 3 6 #" false"
